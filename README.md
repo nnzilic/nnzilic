@@ -4,9 +4,6 @@
 
 Full-stack developer from Bosnia 🇧🇦
 
-## Contact
-- LinkedIn
-- Email
 - 🔭 I’m currently working on finishing hs!
 - 🌱 I’m currently learning c++.
 - 👯 I’m looking to collaborate on nothing.
