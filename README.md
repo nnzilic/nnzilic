@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**nnzilic/nnzilic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Nevresa 👋
 
-Here are some ideas to get you started:
+Full-stack developer from Bosnia 🇧🇦
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- LinkedIn
+- Email
+- 🔭 I’m currently working on finishing hs!
+- 🌱 I’m currently learning c++.
+- 👯 I’m looking to collaborate on nothing.
+- 🤔 I’m looking for help with nothing.
+- 💬 Ask me about anything.
+- 📫 How to reach me: nevresazilic07@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: imam 5 iz digitalne
