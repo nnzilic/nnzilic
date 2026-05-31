@@ -144,7 +144,7 @@ public:
 
 ### Tiny motivational cat says:
 
-## "Keep going. Every expert was once a beginner."
+## "Remember why you started."
 
 </div>
 
