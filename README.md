@@ -1,4 +1,4 @@
-```html
+
 <div align="center">
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2x0NXM0eHdnNnJkN3N0MXh1a3l2N2E2bnN4bTR4eG0zc2M0Y3I2dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ICOgUNjpvO0PC/giphy.gif" width="220">
@@ -185,4 +185,3 @@ Areas of interest:
 ☕💜💻🐈✨
 
 </div>
-```
